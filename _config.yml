@@ -107,7 +107,7 @@ author:
   name             : "Byeong-gil Jun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a undergraduate student in Hanyang University. I'm interested in Computer Architecture, Embedded System."
-  location         : "Hanyang University, Republic of Korea"
+  location         : "Hanyang University, South Korea"
   email            : "junbg@hanyang.ac.kr"
   links:
     - label: "Email"
@@ -115,7 +115,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://byeong-gil.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
