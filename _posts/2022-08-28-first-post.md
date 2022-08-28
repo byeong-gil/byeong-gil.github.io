@@ -11,5 +11,5 @@ last_modified_at: 2022-08-28T08:06:00-05:00
 
 Starts github page to show people my porfolio
 
-title: {{ title }}
-last modified at: {{ last_modified_at }}
+title: {{ page.title }}
+last modified at: {{ page.last_modified_at }}
